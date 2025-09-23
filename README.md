@@ -1,1 +1,1 @@
-# maviomediateam.github.io
+# Stránka WWW.MAVIOMEDIA.SK sa práve aktualizuje :)
