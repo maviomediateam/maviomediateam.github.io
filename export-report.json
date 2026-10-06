@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-10-06T11:02:21.843Z",
+  "sourceUrl": "https://maviocodex.framer.website/",
+  "siteUrl": "https://maviomedia.sk/",
+  "pages": [
+    "https://maviomedia.sk/",
+    "https://maviomedia.sk/nase-sluzby.html",
+    "https://maviomedia.sk/kontakt.html",
+    "https://maviomedia.sk/portfolio.html",
+    "https://maviomedia.sk/festival-zijem.html",
+    "https://maviomedia.sk/chlapci-z-bystrice.html",
+    "https://maviomedia.sk/trinity-beans.html",
+    "https://maviomedia.sk/vigas.html",
+    "https://maviomedia.sk/ovis-farma.html",
+    "https://maviomedia.sk/svabach.html",
+    "https://maviomedia.sk/impulz.html",
+    "https://maviomedia.sk/zus-rosnicky.html",
+    "https://maviomedia.sk/zus.html",
+    "https://maviomedia.sk/moja-sloboda.html",
+    "https://maviomedia.sk/ako-sme-aj-v-case-krizy-prekonali-1-1-miliona-eur.html",
+    "https://maviomedia.sk/vizualna-identit.html",
+    "https://maviomedia.sk/organizovanie-eventu.html",
+    "https://maviomedia.sk/marketingove-trendy-v-roku-2024-na-co-si-dat-pozor.html",
+    "https://maviomedia.sk/kuchar-co-vedie-marketingovu-agenturu.html",
+    "https://maviomedia.sk/humor-tajna-zbran.html",
+    "https://maviomedia.sk/vizualna-identita.html",
+    "https://maviomedia.sk/preco-je-marketingova-strategia-taka-dolezita.html"
+  ],
+  "localizedAssets": 0,
+  "hideFramerBadgeCss": true,
+  "keepFramerRuntime": true,
+  "cname": "maviomedia.sk",
+  "notes": [
+    "Export zachováva Framer runtime pre tlačidlá, menu, hover efekty a animácie.",
+    "Pri zmene obsahu spustite export znovu.",
+    "Overte formuláre a externé integrácie po nasadení."
+  ]
+}
